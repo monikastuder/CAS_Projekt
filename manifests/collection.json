@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://monikastuder.github.io/CAS_Projekt/manifests/manifest_Github.json",
     "label" : "Basel, Universitätsbibliothek, A I 14"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://monikastuder.github.io/CAS_Projekt/manifests/manifestGithub.json",
+    "label" : "Basel, Universitätsbibliothek, A I 14"
   } ]
 }
